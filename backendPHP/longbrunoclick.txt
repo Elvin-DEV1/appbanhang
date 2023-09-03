@@ -1,0 +1,4 @@
+longbrun_banhang   database
+
+user: longbrun_long
+-Long2000@(pass)
