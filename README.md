@@ -7,4 +7,11 @@ Tại file: frontendAndroid\app\src\main\java\com\thanhlong\bandienthoailaptop\u
 Chuyển điện thoại sử dụng hệ điều hành Android sang chế độ dành cho nhà phát triển sau đó kết nối để tải ứng dụng.
 
 # Hình ảnh minh họa ứng dụng
-#
+## Hình ảnh trang chính:
+## Hình ảnh trang quên mật khẩu:
+## Hình ảnh trang chi tiết sp:
+## Hình ảnh trang chat:
+## Hình ảnh trang chi tiết sp:
+## Hình ảnh trang giỏ hàng:
+## Hình ảnh trang thanh toán:
+
